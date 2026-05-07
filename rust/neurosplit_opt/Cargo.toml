@@ -1,0 +1,8 @@
+[package]
+name = "neurosplit_opt"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "neurosplit_opt"
+path = "src/lib.rs"
